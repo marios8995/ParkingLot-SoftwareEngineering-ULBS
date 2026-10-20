@@ -9,7 +9,8 @@
     </head>
     <body>
         <jsp:include page="/WEB-INF/pages/menu.jsp" />
-        <main class="container-fluid mt-5">
+        <div style="height: 25px;" class="container-fluid mt-9"></div>
+        <main class="container-fluid">
             <jsp:doBody/>
         </main>
         <jsp:include page="/WEB-INF/pages/footer.jsp" />
