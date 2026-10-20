@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55a41361-3fc6-4494-bed1-935c1b66d8d4" name="Changes" comment="13.10.2026 End of Lab. Finished Task 1 of &quot;parking lot 1.2.pdf&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/about..jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="55a41361-3fc6-4494-bed1-935c1b66d8d4" name="Changes" comment="20.10.2026 Finished 1.2 (created about.jsp)">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/menu.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/pageTemplate.tag" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/pageTemplate.tag" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3KdwpvPD4AFtczLm2eB3JhLpSnG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +76,7 @@
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RunDashboard">
@@ -169,6 +173,11 @@
     <MESSAGE value="Initial commit." />
     <MESSAGE value="13.10.2026 End of Lab. Finished Task 1 of &quot;parking lot 1.2.pdf&quot;" />
     <MESSAGE value="13.10.2026 End of Lab. Finished Section 1 of &quot;parking lot 1.2.pdf&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="13.10.2026 End of Lab. Finished Section 1 of &quot;parking lot 1.2.pdf&quot;" />
+    <MESSAGE value="20.10.2026 Finished 1.2 (created about.jsp)" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.10.2026 Finished 1.2 (created about.jsp)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
